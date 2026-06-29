@@ -1,0 +1,2 @@
+# Evaluation-of-mosquito-larvicide-treatments-for-biting-midge-control
+This study evaluates the efficacy of seven common mosquito larvicides [i.e., surface film, methoprene, pyriproxyfen, diflubenzuron, novaluron, temephos, and Bacillus thuringiensis] adopted for Culicoides sonorensis population reduction by comparing adult emergence of larvicide-treated C. sonorensis to negative controls (i.e., deionized water). 
